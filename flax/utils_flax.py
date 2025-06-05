@@ -1,3 +1,7 @@
+"""
+Some unofficial utilities for training very simple neural networks.
+"""
+
 import os
 from typing import Sequence, Callable
 import functools
